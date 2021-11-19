@@ -1,0 +1,23 @@
+ Manual Testing
+
+1. What is Software ?
+Software is  a set of collection of computer program that helps us to perform a task .
+
+
+
+2.Type of Software 
+
+i)System Software 
+
+ii)Programming Software 
+
+
+iii) Aplication Software 
+
+
+
+3.What is software Testing ?
+Software Testing is a method to check whether the actual software product matches expected requirements and
+ to ensure that software product is Defect free.
+
+
